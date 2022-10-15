@@ -1,5 +1,4 @@
 
 public enum Ingredients {
-  hello
-
+	SALT, FLOUR, SUGAR
 }
